@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: false
 
 # Барилга, Хот Байгуулалтын яамны тусгай зөвшөөрөл
 
-<embed src="https://bataak.github.io/ebb/assets/docs/3.pdf" width="100%" height="550vh"/>
+<embed src="assets/docs/3.pdf" width="100%" height="550vh"/>
 
 Тусгай зөвшөөрлийг [татах](assets/docs/3.pdf)
 
