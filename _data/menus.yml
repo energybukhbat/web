@@ -1,0 +1,27 @@
+main:
+  - name: "Үйлчилгээ"
+    url: "/services/"
+    weight: 1
+  - name: "Хамт олон"
+    url: "/team/"
+    weight: 2
+  - name: "Багаж хэрэгсэл"
+    url: "/tools/"
+    weight: 3
+  - name: "Тухай"
+    url: "/about/"
+    weight: 4
+  - name: "Мэдээ"
+    url: "/news/"
+    weight: 5
+  - name: "Холбоо барих"
+    url: "/contact/"
+    weight: 6
+
+footer:
+  - name: "Эхлэл"
+    url: "/"
+    weight: 1
+  - name: "Холбоо барих"
+    url: "/contact/"
+    weight: 2

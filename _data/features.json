@@ -1,0 +1,32 @@
+[
+  {
+    title: "Мэргэжлийн баг",
+    description:
+      "Удирдах болон инженер техникийн ажилчид нийлсэн 20 гаруй хүний бүрэлдэхүүнтэй.",
+    image: {
+      url: "images/features/noun_branding_1885335.svg",
+      width: 80,
+      height: 80,
+    },
+  },
+  {
+    title: "Тусгай Зөвшөөрөлтэй",
+    description:
+      "Эрчим хүчний яам болон Барилга, хот байгуулалтын яамны тусгай зөвшөөрөлтэй.",
+    image: {
+      url: "images/features/noun_The Process_1885341.svg",
+      width: 80,
+      height: 80,
+    },
+  },
+  {
+    title: "Үйлдвэрлэл",
+    description:
+      "Гадна гэрэлтүүлгийн  бүх төрлийн шон, гэрэлтүүлгийн шонгийн болон цахилгаан  тоноглолын төмөр бетон сууриудын үйлдвэрлэл.",
+    image: {
+      url: "images/features/noun_3d modeling_1885342.svg",
+      width: 80,
+      height: 80,
+    },
+  },
+];

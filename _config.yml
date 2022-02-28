@@ -1,0 +1,59 @@
+baseurl: '/'
+permalink: pretty
+title: 'Энержи Бөх Бат ХХК'
+url: "https://www.energybukhbat.mn"
+
+logo:
+  mobile: "images/logo/logo-mobile.png"
+  mobile_height: "40px"
+  mobile_width: auto
+  desktop: "images/logo/logo.png"
+  desktop_height: "32px"
+  desktop_width: auto
+
+collections:
+  services:
+    output: true
+  news:
+    output: true
+  team:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+
+sass:
+  indentWidth: 4
+  style: compressed # possible values: nested expanded compact compressed
+  precision: 10
+
+plugins:
+  - jekyll-environment-variables
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
