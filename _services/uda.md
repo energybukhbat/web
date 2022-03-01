@@ -1,13 +1,12 @@
 ---
-title: Энержи Бөх Бат ХХК
+title: Барилга, Хот Байгуулалтын яамны тусгай зөвшөөрөл
 layout: attachment
-description: Барилга, Хот Байгуулалтын яамны тусгай зөвшөөрөл
+description: Энержи Бөх Бат ХХК-ийн үйлчилгээ явуулах Барилга, Хот Байгуулалтын яамны тусгай зөвшөөрөл
 permalink: "/license-uda/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
+weight: 9
 ---
-
-# Барилга, Хот Байгуулалтын яамны тусгай зөвшөөрөл
 
 <embed src="https://www.energybukhbat.mn/assets/docs/3.pdf" width="100%" height="550vh"/>
 
