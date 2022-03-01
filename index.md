@@ -2,7 +2,7 @@
 title: ЭНЕРЖИ БӨХ БАТ ХХК
 layout: home
 description: Энержи Бөх Бат ХХК-ийн танилцуулга веб.
-intro_image: "images/illustrations/index.webp"
+intro_image: "images/illustrations/index.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true

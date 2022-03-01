@@ -1,7 +1,6 @@
-baseurl: '/web'
+baseurl: '/'
 permalink: pretty
 title: 'Энержи Бөх Бат ХХК'
-url: "https://energybukhbat.github.io"
 
 logo:
   mobile: "images/logo/logo-mobile.png"
