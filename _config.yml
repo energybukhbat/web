@@ -3,9 +3,9 @@ permalink: pretty
 title: 'Энержи Бөх Бат ХХК'
 
 logo:
-  mobile: "images/logo/logo-mobile.png"
-  mobile_height: "40px"
-  mobile_width: auto
+  mobile: "images/logo/logo.png"
+  mobile_height: auto
+  mobile_width: "60px"
   desktop: "images/logo/logo.png"
   desktop_height: "32px"
   desktop_width: auto
