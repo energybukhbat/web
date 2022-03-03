@@ -30,7 +30,9 @@ $sub-footer-text-color: $white;
 @import "bootstrap-variables";
 @import "bootstrap/bootstrap-reboot";
 @import "bootstrap/bootstrap-grid";
-// @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
+
+// Image view
+@import "lightbox";
 
 // Libraries
 @import "libraries/hamburgers/hamburgers";
